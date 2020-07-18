@@ -8,8 +8,7 @@ Basic CLI Client for the OSIsoft PIData historian system written in VB.NET. Can 
 
 ## Screenshots
 
-![PI-Import](https://user-images.githubusercontent.com/60409723/87844478-c4b54200-c87a-11ea-9b63-2786099a2aea.png)
-
+![PI-Import](https://user-images.githubusercontent.com/60409723/87844531-1eb60780-c87b-11ea-8502-e65ce3bd83f2.png)
 
 ## Usage
 * Provided in source code
